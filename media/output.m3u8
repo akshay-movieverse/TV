@@ -3,9 +3,9 @@
 #EXT-X-TARGETDURATION:19
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:12.300000,
-output0.ts
+https://raw.githubusercontent.com/akshay-movieverse/TV/main/media/output0.ts
 #EXTINF:13.407000,
-output1.ts
+https://raw.githubusercontent.com/akshay-movieverse/TV/main/media/output1.ts
 #EXTINF:11.439000,
 output2.ts
 #EXTINF:6.601000,
